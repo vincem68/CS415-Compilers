@@ -1,1 +1,2 @@
-I have included deadcode.c along with Instr.h, as I have modified it.
+This project was a program that would detect dead code given a text file of iloc instructions and would eliminate them from the result, thereby reducing the code
+and keeping the order of the needed instructions to make sure the result was correct.
